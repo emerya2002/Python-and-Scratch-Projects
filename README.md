@@ -5,3 +5,5 @@ Python Project:
 
 Scratch Project:
 - This pong game simulates a game where the ball hits the paddle, then rotates 180 degrees, and proceeds to move towards an edge. Once it hits an edge, it bounces off, and the game continues until the the user stops playing, or the ball hits the red line. If the ball hits the red line, the background changes and the game is over. Also, the ball speeds up when the score hits a different interval of 5, until it reaches 15, where the speed remains the same. Therefore there are 3 levels. 
+
+https://scratch.mit.edu/projects/248174678/
